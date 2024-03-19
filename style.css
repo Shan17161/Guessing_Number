@@ -1,0 +1,34 @@
+body{
+    background: url("https://ilona-andrews.com/wp-content/uploads/2023/08/question-featured.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+  }
+.main{
+    padding: 50px 0;
+    background-color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    text-align: center;
+}
+input{
+    width: 250px;
+}
+button, input{
+    cursor: pointer;
+    padding: 10px;
+}
+
+.btn-1{
+    margin-right: 40px ;
+}
+.greet{
+    display: none;
+}
+.lower, .higher{
+    display: none;
+}
+.tri_count{
+    font-size: 20px;
+}
